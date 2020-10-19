@@ -85,6 +85,12 @@ function background_white() {
     document.getElementById('bs5').style.backgroundColor ='#000';
     document.getElementById('bs5').style.transition ='all 1s';
 
+    document.getElementById('bs6').style.backgroundColor ='#000';
+    document.getElementById('bs6').style.transition ='all 1s';
+
+    document.getElementById('bs7').style.backgroundColor ='#000';
+    document.getElementById('bs7').style.transition ='all 1s';
+
     document.getElementById('bld01').style.color ='#fff';
     document.getElementById('bld01').style.backgroundColor ='#000';
     document.getElementById('bld01').style.transition ='all 1s';
@@ -127,6 +133,9 @@ function background_white() {
     document.getElementById('icon2').style.color ='#000';
     document.getElementById('icon2').style.transition ='all 1s';
 
+    document.getElementById('icon3').style.color ='#000';
+    document.getElementById('icon3').style.transition ='all 1s';
+
     document.getElementById('nicoIcon').style.fill ='#000';
     document.getElementById('nicoIcon').style.transition ='all 1s';
 
@@ -152,6 +161,12 @@ function background_black() {
 
     document.getElementById('bs5').style.backgroundColor ='#fff';
     document.getElementById('bs5').style.transition ='all 1s';
+
+    document.getElementById('bs6').style.backgroundColor ='#fff';
+    document.getElementById('bs6').style.transition ='all 1s';
+
+    document.getElementById('bs7').style.backgroundColor ='#fff';
+    document.getElementById('bs7').style.transition ='all 1s';
 
     document.getElementById('bld01').style.color ='#000000';
     document.getElementById('bld01').style.backgroundColor ='#fff';
@@ -181,6 +196,14 @@ function background_black() {
     document.getElementById('bld07').style.backgroundColor ='#fff';
     document.getElementById('bld07').style.transition ='all 1s';
 
+    document.getElementById('bld08').style.color ='#000000';
+    document.getElementById('bld08').style.backgroundColor ='#fff';
+    document.getElementById('bld08').style.transition ='all 1s';
+
+    document.getElementById('bld09').style.color ='#000000';
+    document.getElementById('bld09').style.backgroundColor ='#fff';
+    document.getElementById('bld09').style.transition ='all 1s';
+
     document.getElementById('wakuAbout').style.border ='2px solid #fff';
     document.getElementById('wakuAbout').style.color ='#fff';
     document.getElementById('wakuAbout').style.transition ='all 1s';
@@ -194,6 +217,9 @@ function background_black() {
 
     document.getElementById('icon2').style.color ='#fff';
     document.getElementById('icon2').style.transition ='all 1s';
+
+    document.getElementById('icon3').style.color ='#fff';
+    document.getElementById('icon3').style.transition ='all 1s';
 
     document.getElementById('nicoIcon').style.fill ='#fff';
     document.getElementById('nicoIcon').style.transition ='all 1s';
@@ -214,6 +240,10 @@ function background_black0() {
     document.getElementById('bs4').style.backgroundColor ='#fff';
 
     document.getElementById('bs5').style.backgroundColor ='#fff';
+
+    document.getElementById('bs6').style.backgroundColor ='#fff';
+
+    document.getElementById('bs7').style.backgroundColor ='#fff';
 
     document.getElementById('bld01').style.color ='#000000';
     document.getElementById('bld01').style.backgroundColor ='#fff';
@@ -236,6 +266,12 @@ function background_black0() {
     document.getElementById('bld07').style.color ='#000000';
     document.getElementById('bld07').style.backgroundColor ='#fff';
 
+    document.getElementById('bld08').style.color ='#000000';
+    document.getElementById('bld08').style.backgroundColor ='#fff';
+
+    document.getElementById('bld09').style.color ='#000000';
+    document.getElementById('bld09').style.backgroundColor ='#fff';
+
     document.getElementById('wakuAbout').style.border ='2px solid #fff';
     document.getElementById('wakuAbout').style.color ='#fff';
 
@@ -245,6 +281,8 @@ function background_black0() {
     document.getElementById('icon1').style.color ='#fff';
 
     document.getElementById('icon2').style.color ='#fff';
+
+    document.getElementById('icon3').style.color ='#fff';
 
     document.getElementById('nicoIcon').style.fill ='#fff';
 
