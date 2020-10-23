@@ -118,14 +118,10 @@ function background_white() {
     document.getElementById('bld07').style.color ='#fff';
     document.getElementById('bld07').style.backgroundColor ='#000';
     document.getElementById('bld07').style.transition ='all 1s';
-    
+
     document.getElementById('bld08').style.color ='#fff';
     document.getElementById('bld08').style.backgroundColor ='#000';
     document.getElementById('bld08').style.transition ='all 1s';
-
-    document.getElementById('bld09').style.color ='#fff';
-    document.getElementById('bld09').style.backgroundColor ='#000';
-    document.getElementById('bld09').style.transition ='all 1s';
 
     document.getElementById('wakuAbout').style.border ='2px solid #000';
     document.getElementById('wakuAbout').style.color ='#000';
@@ -208,10 +204,6 @@ function background_black() {
     document.getElementById('bld08').style.backgroundColor ='#fff';
     document.getElementById('bld08').style.transition ='all 1s';
 
-    document.getElementById('bld09').style.color ='#000000';
-    document.getElementById('bld09').style.backgroundColor ='#fff';
-    document.getElementById('bld09').style.transition ='all 1s';
-
     document.getElementById('wakuAbout').style.border ='2px solid #fff';
     document.getElementById('wakuAbout').style.color ='#fff';
     document.getElementById('wakuAbout').style.transition ='all 1s';
@@ -276,9 +268,6 @@ function background_black0() {
 
     document.getElementById('bld08').style.color ='#000000';
     document.getElementById('bld08').style.backgroundColor ='#fff';
-
-    document.getElementById('bld09').style.color ='#000000';
-    document.getElementById('bld09').style.backgroundColor ='#fff';
 
     document.getElementById('wakuAbout').style.border ='2px solid #fff';
     document.getElementById('wakuAbout').style.color ='#fff';
